@@ -1,3 +1,5 @@
+This is a MERN website with react class. I'll start making equivalent hooks page eventually with ..components.hooks.js end. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
